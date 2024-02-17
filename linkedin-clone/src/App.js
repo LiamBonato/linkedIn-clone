@@ -9,7 +9,7 @@ function App() {
       {/* Header */}
 
       {/*App Body*/}
-        {/* Siderbar */}
+        {/* Sidebar */}
         {/* Feed */ }
         {/* Widgets */}
     </div>
